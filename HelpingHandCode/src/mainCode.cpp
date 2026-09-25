@@ -1,18 +1,36 @@
 #include <Arduino.h>
 
 // put function declarations here:
-int myFunction(int, int);
+#include <Servo.h>
+
+Servo myServo;
+
+int buttonPin = 8;
+int servoPin = 3;
+volatile boolean ButtonToggle = false;
 
 void setup() {
   // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+pinMode(buttonPin, INPUT_PULLUP);
+myServo.attach(servoPin);
+myServo.write(90);
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-}
+  int ButtonState = digitalRead(buttonPin);
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
-}
+  if (ButtonState == HIGH){
+    ButtonToggle != ButtonToggle;
+  }
+
+  if (ButtonToggle == true){
+    myServo.write(0); }
+
+  else if (ButtonToggle == false){
+    myServo.write(90);
+  }
+  }
+
+
+// put function definitions here
