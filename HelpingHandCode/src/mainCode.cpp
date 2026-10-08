@@ -34,10 +34,9 @@ void loop() {
   Serial.println("Servo to 0"); }
 
   else if (ButtonToggle == false){
-    for (int i = 1; i <=10; i++){
     myServo.write(130);
     Serial.println("Servo to 90");
-    }
+    
   }
 
   delay(50);
