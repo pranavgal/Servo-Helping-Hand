@@ -16,7 +16,7 @@ void setup() {
 Serial.begin(9600);
 pinMode(buttonPin, INPUT_PULLUP);
 myServo.attach(servoPin);
-myServo.write(90);
+myServo.write(45);
 Serial.println("Starting");
 }
 
@@ -30,11 +30,11 @@ void loop() {
   }
 
   if (ButtonToggle == true){
-    myServo.write(45);
+    myServo.write(60);
   Serial.println("Servo to 0"); }
 
   else if (ButtonToggle == false){
-    myServo.write(130);
+    myServo.write(140);
     Serial.println("Servo to 90");
     
   }
