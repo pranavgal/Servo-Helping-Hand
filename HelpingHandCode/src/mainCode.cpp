@@ -34,7 +34,7 @@ void loop() {
   Serial.println("Servo to 0"); }
 
   else if (ButtonToggle == false){
-    myServo.write(140);
+    myServo.write(143);
     Serial.println("Servo to 90");
     
   }
