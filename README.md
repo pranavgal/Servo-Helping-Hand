@@ -1,8 +1,9 @@
 # Servo-Helping-Hand
 This project is a replica of a helping hand, a tool used to hold wires in place for soldering. Instead of clips and malleable supports, my iteration of the helping hand uses a claw-like mechanism using servos. The build is 3D printed using PLA, and the code is C++, being run on an Arduino Uno R3. I made this project as I'm reaching the point where I will have to start soldering my projects for a more 'official' look. I made this project as a last mini project using a breadboard and showcasing my first design. All of the CAD files are done by me as well as the claw mechanism. 
 
-**Demo Link:
-hhhhhhhukihttps://drive.google.com/drive/folders/1XLFUDMDT-zU4_I8MI24yJ_bZmHPapKTi?usp=sharing
+****Demo Link:
+[hhhhhhhukihttps://drive.google.com/drive/folders/1XLFUDMDT-zU4_I8MI24yJ_bZmHPapKTi?usp=sharing
+](https://youtube.com/shorts/mf-pXX34Wso?feature=share)
 
 **Known Issues:
 Currently, the arm attached to the servo tends to lean downwards, and grip strength falters at times.
