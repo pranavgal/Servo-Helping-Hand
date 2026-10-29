@@ -13,7 +13,7 @@ Currently, the arm attached to the servo tends to lean downwards, and grip stren
 3. Feed the servo wire through the back into the small square opening.
 4. Attach the shorter claw arm to the top of the servo horn, fitting it into the hole at the top. (Hot glue was used in mine)
 5. Insert the long arm to the pillar within the case, putting the hole in the gear on the little pole
-6. Take the small, flat square piece and attack it on the part the highest wall in the case, making sure it covers the top of the long arm and doesn't interfere with its rotation path.
+6. Take the restrictive piece and attach it on the part the highest wall in the case, making sure it covers the top of the long arm and doesn't interfere with its rotation path.
 7. Wire using breadboard, jumper wires, button, and microcontroller
 
 
