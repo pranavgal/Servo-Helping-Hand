@@ -16,4 +16,8 @@ Currently, the arm attached to the servo tends to lean downwards, and grip stren
 6. Take the restrictive piece and attach it on the part the highest wall in the case, making sure it covers the top of the long arm and doesn't interfere with its rotation path.
 7. Wire using breadboard, jumper wires, button, and microcontroller
 
+BOM:
+https://docs.google.com/spreadsheets/d/1SYO76Gznaj6-r703l9xk6nzmOlXZcnyvFCO7KxG4GtA/edit?usp=sharing
 
+
+<img width="789" height="746" alt="image" src="https://github.com/user-attachments/assets/efd2fb3c-3a42-47c0-9cdd-4da08dc44fe2" />
