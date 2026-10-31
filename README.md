@@ -19,6 +19,8 @@ Currently, the arm attached to the servo tends to lean downwards, and grip stren
 
 BOM:
 https://docs.google.com/spreadsheets/d/1SYO76Gznaj6-r703l9xk6nzmOlXZcnyvFCO7KxG4GtA/edit?usp=sharing
+<img width="727" height="191" alt="image" src="https://github.com/user-attachments/assets/a17a1ee0-84e8-44ec-9404-dca1cc880061" />
+
 
 
 <img width="789" height="746" alt="image" src="https://github.com/user-attachments/assets/efd2fb3c-3a42-47c0-9cdd-4da08dc44fe2" />
