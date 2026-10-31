@@ -36,3 +36,18 @@ All items I bought were from amazon but any vendors work.
 
 Product in Fusion360, from different angles, showing components, assembled and individual parts
 
+
+<img width="4469" height="3636" alt="IMG_0540" src="https://github.com/user-attachments/assets/6581196b-0b21-4b8a-be84-2631720aa701" />
+<img width="4523" height="2488" alt="IMG_0537" src="https://github.com/user-attachments/assets/05ff62ad-4f88-4bf8-8ae0-f0022cca10a4" />
+<img width="3594" height="2840" alt="IMG_0539" src="https://github.com/user-attachments/assets/05daa71e-aa77-495d-991e-0431aa41f93a" />
+<img width="4142" height="2519" alt="IMG_0538" src="https://github.com/user-attachments/assets/9e2e4759-97d8-48ac-9ac5-b607848f8848" />
+
+Product fully printed and assembled
+
+
+
+Wiring Schematic: 
+[Wiring Schematic.pdf](https://github.com/user-attachments/files/34224148/Wiring.Schematic.pdf)
+
+Connections done with jumper wires, power supply from the Arduino connected to a computer. No soldering as its done on a breadboard. Pushbutton is connected to Digital Pin 8 and GND. Servo is connected to 5V, GND, and the servo Signal pin is connected to Digital Pin 3. 
+
