@@ -51,7 +51,9 @@ Product fully printed and assembled
 
 
 Wiring Schematic: 
-[Wiring.Schematic.pdf](https://github.com/user-attachments/files/34224251/Wiring.Schematic.pdf)
+[Wiring.Schematic_images.zip](https://github.com/user-attachments/files/34224269/Wiring.Schematic_images.zip)
+
+
 
 Connections done with jumper wires, power supply from the Arduino connected to a computer. No soldering as its done on a breadboard. Pushbutton is connected to Digital Pin 8 and GND. Servo is connected to 5V, GND, and the servo Signal pin is connected to Digital Pin 3. 
 
