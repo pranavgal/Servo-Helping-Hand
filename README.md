@@ -17,11 +17,16 @@ Currently, the arm attached to the servo tends to lean downwards, and grip stren
 7. Wire using breadboard, jumper wires, button, and microcontroller
 - I used hot glue for mine but super glue would be optimal.
 
+
+  
+
 BOM:
 https://docs.google.com/spreadsheets/d/1SYO76Gznaj6-r703l9xk6nzmOlXZcnyvFCO7KxG4GtA/edit?usp=sharing
+
 <img width="727" height="191" alt="image" src="https://github.com/user-attachments/assets/a17a1ee0-84e8-44ec-9404-dca1cc880061" />
 
 All items I bought were from amazon but any vendors work.
+
 
 
 
